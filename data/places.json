@@ -1,0 +1,159 @@
+{
+  "Mumbai": [
+    {"name": "Gateway of India"},
+    {"name": "Marine Drive"},
+    {"name": "Colaba Causeway"},
+    {"name": "Siddhivinayak Temple"},
+    {"name": "Juhu Beach"}
+  ],
+  "Pune": [
+    {"name": "Shaniwar Wada"},
+    {"name": "Aga Khan Palace"},
+    {"name": "Sinhagad Fort"},
+    {"name": "Dagdusheth Temple"}
+  ],
+  "Nashik": [
+    {"name": "Trimbakeshwar Temple"},
+    {"name": "Sula Vineyards"},
+    {"name": "Panchavati"},
+    {"name": "Ramkund"}
+  ],
+  "Nagpur": [
+    {"name": "Deekshabhoomi"},
+    {"name": "Futala Lake"},
+    {"name": "Ambazari Lake"},
+    {"name": "Sitabuldi Fort"}
+  ],
+  "Aurangabad": [
+    {"name": "Ajanta Caves"},
+    {"name": "Ellora Caves"},
+    {"name": "Bibi Ka Maqbara"},
+    {"name": "Daulatabad Fort"}
+  ],
+  "Delhi": [
+    {"name": "India Gate"},
+    {"name": "Red Fort"},
+    {"name": "Qutub Minar"},
+    {"name": "Lotus Temple"}
+  ],
+  "Bangalore": [
+    {"name": "Lalbagh Garden"},
+    {"name": "Cubbon Park"},
+    {"name": "Bangalore Palace"},
+    {"name": "ISKCON Temple"}
+  ],
+  "Hyderabad": [
+    {"name": "Charminar"},
+    {"name": "Golconda Fort"},
+    {"name": "Ramoji Film City"},
+    {"name": "Hussain Sagar Lake"}
+  ],
+  "Chennai": [
+    {"name": "Marina Beach"},
+    {"name": "Kapaleeshwarar Temple"},
+    {"name": "Fort St George"},
+    {"name": "Besant Nagar Beach"}
+  ],
+  "Kolkata": [
+    {"name": "Victoria Memorial"},
+    {"name": "Howrah Bridge"},
+    {"name": "Dakshineswar Temple"},
+    {"name": "Park Street"}
+  ],
+  "Jaipur": [
+    {"name": "Amber Fort"},
+    {"name": "Hawa Mahal"},
+    {"name": "City Palace"},
+    {"name": "Jantar Mantar"}
+  ],
+  "Udaipur": [
+    {"name": "City Palace"},
+    {"name": "Lake Pichola"},
+    {"name": "Jag Mandir"},
+    {"name": "Saheliyon Ki Bari"}
+  ],
+  "Jodhpur": [
+    {"name": "Mehrangarh Fort"},
+    {"name": "Jaswant Thada"},
+    {"name": "Umaid Bhawan Palace"},
+    {"name": "Clock Tower Market"}
+  ],
+  "Jaisalmer": [
+    {"name": "Jaisalmer Fort"},
+    {"name": "Patwon Ki Haveli"},
+    {"name": "Sam Sand Dunes"},
+    {"name": "Gadisar Lake"}
+  ],
+  "Goa": [
+    {"name": "Baga Beach"},
+    {"name": "Calangute Beach"},
+    {"name": "Fort Aguada"},
+    {"name": "Anjuna Market"}
+  ],
+  "Manali": [
+    {"name": "Solang Valley"},
+    {"name": "Hadimba Temple"},
+    {"name": "Rohtang Pass"},
+    {"name": "Mall Road"}
+  ],
+  "Shimla": [
+    {"name": "Mall Road"},
+    {"name": "Ridge"},
+    {"name": "Jakhoo Temple"},
+    {"name": "Kufri"}
+  ],
+  "Rishikesh": [
+    {"name": "Laxman Jhula"},
+    {"name": "Ram Jhula"},
+    {"name": "River Rafting"},
+    {"name": "Triveni Ghat"}
+  ],
+  "Dubai": [
+    {"name": "Burj Khalifa"},
+    {"name": "Dubai Mall"},
+    {"name": "Desert Safari"},
+    {"name": "Palm Jumeirah"}
+  ],
+  "Paris": [
+    {"name": "Eiffel Tower"},
+    {"name": "Louvre Museum"},
+    {"name": "Notre Dame"},
+    {"name": "Seine River Cruise"}
+  ],
+  "London": [
+    {"name": "Big Ben"},
+    {"name": "London Eye"},
+    {"name": "Tower Bridge"},
+    {"name": "Buckingham Palace"}
+  ],
+  "Tokyo": [
+    {"name": "Shibuya Crossing"},
+    {"name": "Tokyo Tower"},
+    {"name": "Sensoji Temple"},
+    {"name": "Akihabara"}
+  ],
+  "New York": [
+    {"name": "Statue of Liberty"},
+    {"name": "Times Square"},
+    {"name": "Central Park"},
+    {"name": "Brooklyn Bridge"}
+  ],
+  "Sydney": [
+    {"name": "Sydney Opera House"},
+    {"name": "Harbour Bridge"},
+    {"name": "Bondi Beach"},
+    {"name": "Taronga Zoo"}
+  ],
+  "Singapore": [
+    {"name": "Marina Bay Sands"},
+    {"name": "Gardens by the Bay"},
+    {"name": "Sentosa Island"},
+    {"name": "Universal Studios"}
+  ],
+  "Rome": [
+    {"name": "Colosseum"},
+    {"name": "Roman Forum"},
+    {"name": "Vatican City"},
+    {"name": "Trevi Fountain"}
+  ]
+}

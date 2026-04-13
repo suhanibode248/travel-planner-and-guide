@@ -1,0 +1,267 @@
+{
+  "Mumbai": {
+    "street_food": ["Vada Pav", "Pav Bhaji", "Bhel Puri"],
+    "restaurants": [{ "name": "Trishna", "link": "https://www.zomato.com" }]
+  },
+  "Pune": {
+    "street_food": ["Misal Pav", "Vada Pav"],
+    "restaurants": [{ "name": "Vaishali", "link": "https://www.zomato.com" }]
+  },
+  "Nashik": {
+    "street_food": ["Misal Pav", "Kanda Bhaji"],
+    "restaurants": [{ "name": "Barbeque Ville", "link": "https://www.zomato.com" }]
+  },
+  "Nagpur": {
+    "street_food": ["Tarri Poha", "Samosa"],
+    "restaurants": [{ "name": "Haldiram's", "link": "https://www.zomato.com" }]
+  },
+  "Aurangabad": {
+    "street_food": ["Naan Qalia"],
+    "restaurants": [{ "name": "Tandoor Restaurant", "link": "https://www.zomato.com" }]
+  },
+  "Delhi": {
+    "street_food": ["Chole Bhature", "Chaat"],
+    "restaurants": [{ "name": "Karim's", "link": "https://www.zomato.com" }]
+  },
+  "Bangalore": {
+    "street_food": ["Masala Dosa", "Idli"],
+    "restaurants": [{ "name": "MTR", "link": "https://www.zomato.com" }]
+  },
+  "Hyderabad": {
+    "street_food": ["Hyderabadi Biryani"],
+    "restaurants": [{ "name": "Paradise Biryani", "link": "https://www.zomato.com" }]
+  },
+  "Chennai": {
+    "street_food": ["Idli", "Dosa"],
+    "restaurants": [{ "name": "Murugan Idli Shop", "link": "https://www.zomato.com" }]
+  },
+  "Kolkata": {
+    "street_food": ["Puchka", "Kathi Roll"],
+    "restaurants": [{ "name": "Peter Cat", "link": "https://www.zomato.com" }]
+  },
+  "Jaipur": {
+    "street_food": ["Pyaaz Kachori"],
+    "restaurants": [{ "name": "LMB", "link": "https://www.zomato.com" }]
+  },
+  "Udaipur": {
+    "street_food": ["Kachori"],
+    "restaurants": [{ "name": "Ambrai", "link": "https://www.zomato.com" }]
+  },
+  "Jodhpur": {
+    "street_food": ["Mirchi Bada"],
+    "restaurants": [{ "name": "Gypsy Restaurant", "link": "https://www.zomato.com" }]
+  },
+  "Jaisalmer": {
+    "street_food": ["Dal Baati Churma"],
+    "restaurants": [{ "name": "Saffron Restaurant", "link": "https://www.zomato.com" }]
+  },
+  "Goa": {
+    "street_food": ["Fish Curry Rice"],
+    "restaurants": [{ "name": "Fisherman's Wharf", "link": "https://www.zomato.com" }]
+  },
+  "Panaji": {
+    "street_food": ["Goan Chorizo Pav"],
+    "restaurants": [{ "name": "Viva Panjim", "link": "https://www.zomato.com" }]
+  },
+  "Manali": {
+    "street_food": ["Siddu"],
+    "restaurants": [{ "name": "Johnson's Cafe", "link": "https://www.zomato.com" }]
+  },
+  "Shimla": {
+    "street_food": ["Chana Madra"],
+    "restaurants": [{ "name": "Cafe Simla Times", "link": "https://www.zomato.com" }]
+  },
+  "Dharamshala": {
+    "street_food": ["Momos"],
+    "restaurants": [{ "name": "Nick's Italian Kitchen", "link": "https://www.zomato.com" }]
+  },
+  "Amritsar": {
+    "street_food": ["Amritsari Kulcha"],
+    "restaurants": [{ "name": "Kesar Da Dhaba", "link": "https://www.zomato.com" }]
+  },
+  "Varanasi": {
+    "street_food": ["Kachori"],
+    "restaurants": [{ "name": "Banaras Haveli", "link": "https://www.zomato.com" }]
+  },
+  "Agra": {
+    "street_food": ["Petha"],
+    "restaurants": [{ "name": "Pinch of Spice", "link": "https://www.zomato.com" }]
+  },
+  "Lucknow": {
+    "street_food": ["Tunday Kebab"],
+    "restaurants": [{ "name": "Tunday Kababi", "link": "https://www.zomato.com" }]
+  },
+  "Bhopal": {
+    "street_food": ["Poha Jalebi"],
+    "restaurants": [{ "name": "Manohar Dairy", "link": "https://www.zomato.com" }]
+  },
+  "Indore": {
+    "street_food": ["Poha", "Jalebi"],
+    "restaurants": [{ "name": "56 Dukan", "link": "https://www.zomato.com" }]
+  },
+  "Ahmedabad": {
+    "street_food": ["Dhokla"],
+    "restaurants": [{ "name": "Agashiye", "link": "https://www.zomato.com" }]
+  },
+  "Surat": {
+    "street_food": ["Locho"],
+    "restaurants": [{ "name": "Sasumaa", "link": "https://www.zomato.com" }]
+  },
+  "Chandigarh": {
+    "street_food": ["Chole Bhature"],
+    "restaurants": [{ "name": "Pal Dhaba", "link": "https://www.zomato.com" }]
+  },
+  "Dehradun": {
+    "street_food": ["Aloo Ke Gutke"],
+    "restaurants": [{ "name": "Ellora's Melting Moments", "link": "https://www.zomato.com" }]
+  },
+  "Rishikesh": {
+    "street_food": ["Aloo Puri"],
+    "restaurants": [{ "name": "Little Buddha Cafe", "link": "https://www.zomato.com" }]
+  },
+
+  "Dubai": {
+    "street_food": ["Shawarma"],
+    "restaurants": [{ "name": "Al Ustad Special Kabab", "link": "https://www.zomato.com" }]
+  },
+  "Abu Dhabi": {
+    "street_food": ["Machboos"],
+    "restaurants": [{ "name": "Zuma Abu Dhabi", "link": "https://www.zomato.com" }]
+  },
+  "Paris": {
+    "street_food": ["Crepe"],
+    "restaurants": [{ "name": "Le Meurice", "link": "https://www.zomato.com" }]
+  },
+  "Nice": {
+    "street_food": ["Socca"],
+    "restaurants": [{ "name": "La Petite Maison", "link": "https://www.zomato.com" }]
+  },
+  "Lyon": {
+    "street_food": ["Quenelle"],
+    "restaurants": [{ "name": "Le Kitchen Cafe", "link": "https://www.zomato.com" }]
+  },
+  "London": {
+    "street_food": ["Fish and Chips"],
+    "restaurants": [{ "name": "Dishoom", "link": "https://www.zomato.com" }]
+  },
+  "Manchester": {
+    "street_food": ["Pie and Mash"],
+    "restaurants": [{ "name": "Mana", "link": "https://www.zomato.com" }]
+  },
+  "Birmingham": {
+    "street_food": ["Balti Curry"],
+    "restaurants": [{ "name": "Opheem", "link": "https://www.zomato.com" }]
+  },
+  "Tokyo": {
+    "street_food": ["Takoyaki", "Ramen"],
+    "restaurants": [{ "name": "Ichiran Ramen", "link": "https://www.zomato.com" }]
+  },
+  "Osaka": {
+    "street_food": ["Okonomiyaki"],
+    "restaurants": [{ "name": "Kani Doraku", "link": "https://www.zomato.com" }]
+  },
+  "Kyoto": {
+    "street_food": ["Yatsuhashi"],
+    "restaurants": [{ "name": "Gion Karyo", "link": "https://www.zomato.com" }]
+  },
+  "New York": {
+    "street_food": ["Hot Dog", "Bagel"],
+    "restaurants": [{ "name": "Joe's Pizza", "link": "https://www.zomato.com" }]
+  },
+  "Los Angeles": {
+    "street_food": ["Tacos"],
+    "restaurants": [{ "name": "Bestia", "link": "https://www.zomato.com" }]
+  },
+  "San Francisco": {
+    "street_food": ["Clam Chowder"],
+    "restaurants": [{ "name": "Tartine Bakery", "link": "https://www.zomato.com" }]
+  },
+  "Chicago": {
+    "street_food": ["Deep Dish Pizza"],
+    "restaurants": [{ "name": "Giordano's", "link": "https://www.zomato.com" }]
+  },
+  "Toronto": {
+    "street_food": ["Poutine"],
+    "restaurants": [{ "name": "CN Tower 360 Restaurant", "link": "https://www.zomato.com" }]
+  },
+  "Vancouver": {
+    "street_food": ["Sushi", "Seafood"],
+    "restaurants": [{ "name": "Tojo's", "link": "https://www.zomato.com" }]
+  },
+  "Sydney": {
+    "street_food": ["Meat Pie"],
+    "restaurants": [{ "name": "Quay Restaurant", "link": "https://www.zomato.com" }]
+  },
+  "Melbourne": {
+    "street_food": ["Coffee", "Brunch"],
+    "restaurants": [{ "name": "Attica", "link": "https://www.zomato.com" }]
+  },
+  "Brisbane": {
+    "street_food": ["Seafood"],
+    "restaurants": [{ "name": "Esquire", "link": "https://www.zomato.com" }]
+  },
+  "Singapore": {
+    "street_food": ["Hainanese Chicken Rice"],
+    "restaurants": [{ "name": "Lau Pa Sat", "link": "https://www.zomato.com" }]
+  },
+  "Bangkok": {
+    "street_food": ["Pad Thai", "Mango Sticky Rice"],
+    "restaurants": [{ "name": "Jay Fai", "link": "https://www.zomato.com" }]
+  },
+  "Phuket": {
+    "street_food": ["Seafood"],
+    "restaurants": [{ "name": "Raya Restaurant", "link": "https://www.zomato.com" }]
+  },
+  "Kuala Lumpur": {
+    "street_food": ["Nasi Lemak"],
+    "restaurants": [{ "name": "Jalan Alor Food Street", "link": "https://www.zomato.com" }]
+  },
+  "Bali": {
+    "street_food": ["Satay"],
+    "restaurants": [{ "name": "Locavore", "link": "https://www.zomato.com" }]
+  },
+  "Jakarta": {
+    "street_food": ["Nasi Goreng"],
+    "restaurants": [{ "name": "SKYE Jakarta", "link": "https://www.zomato.com" }]
+  },
+  "Rome": {
+    "street_food": ["Pizza", "Gelato"],
+    "restaurants": [{ "name": "La Pergola", "link": "https://www.zomato.com" }]
+  },
+  "Venice": {
+    "street_food": ["Cicchetti"],
+    "restaurants": [{ "name": "Osteria alle Testiere", "link": "https://www.zomato.com" }]
+  },
+  "Milan": {
+    "street_food": ["Risotto"],
+    "restaurants": [{ "name": "Cracco", "link": "https://www.zomato.com" }]
+  },
+  "Barcelona": {
+    "street_food": ["Tapas"],
+    "restaurants": [{ "name": "Tickets", "link": "https://www.zomato.com" }]
+  },
+  "Madrid": {
+    "street_food": ["Churros"],
+    "restaurants": [{ "name": "DiverXO", "link": "https://www.zomato.com" }]
+  },
+  "Berlin": {
+    "street_food": ["Currywurst"],
+    "restaurants": [{ "name": "Tim Raue", "link": "https://www.zomato.com" }]
+  },
+  "Munich": {
+    "street_food": ["Bratwurst"],
+    "restaurants": [{ "name": "Hofbräuhaus", "link": "https://www.zomato.com" }]
+  },
+  "Amsterdam": {
+    "street_food": ["Stroopwafel"],
+    "restaurants": [{ "name": "De Kas", "link": "https://www.zomato.com" }]
+  },
+  "Zurich": {
+    "street_food": ["Rösti"],
+    "restaurants": [{ "name": "The Restaurant Zurich", "link": "https://www.zomato.com" }]
+  },
+  "Geneva": {
+    "street_food": ["Fondue"],
+    "restaurants": [{ "name": "Bayview", "link": "https://www.zomato.com" }]
+  }
+}

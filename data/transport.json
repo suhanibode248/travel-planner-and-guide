@@ -1,0 +1,399 @@
+{
+  "Mumbai": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Pune": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Nashik": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Nagpur": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Aurangabad": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Delhi": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Bangalore": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Hyderabad": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Chennai": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Kolkata": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Jaipur": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Udaipur": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Jodhpur": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  },
+  "Jaisalmer": {
+    "cabs": [
+      {"name": "Local Taxi", "link": "#"},
+      {"name": "Rental Jeep", "link": "#"}
+    ]
+  },
+  "Goa": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "GoaMiles", "link": "https://www.goamiles.com"}
+    ]
+  },
+  "Panaji": {
+    "cabs": [
+      {"name": "GoaMiles", "link": "https://www.goamiles.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  },
+  "Manali": {
+    "cabs": [
+      {"name": "Local Taxi", "link": "#"},
+      {"name": "Bike Rental", "link": "#"}
+    ]
+  },
+  "Shimla": {
+    "cabs": [
+      {"name": "Local Taxi", "link": "#"},
+      {"name": "Bike Rental", "link": "#"}
+    ]
+  },
+  "Dharamshala": {
+    "cabs": [
+      {"name": "Local Taxi", "link": "#"},
+      {"name": "Bike Rental", "link": "#"}
+    ]
+  },
+  "Amritsar": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Varanasi": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Auto Rickshaw", "link": "#"}
+    ]
+  },
+  "Agra": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Auto Rickshaw", "link": "#"}
+    ]
+  },
+  "Lucknow": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Bhopal": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Auto Rickshaw", "link": "#"}
+    ]
+  },
+  "Indore": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Ahmedabad": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Surat": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Auto Rickshaw", "link": "#"}
+    ]
+  },
+  "Chandigarh": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Dehradun": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  },
+  "Rishikesh": {
+    "cabs": [
+      {"name": "Auto Rickshaw", "link": "#"},
+      {"name": "Bike Rental", "link": "#"}
+    ]
+  },
+
+  "Dubai": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Careem", "link": "https://www.careem.com"}
+    ]
+  },
+  "Abu Dhabi": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Careem", "link": "https://www.careem.com"}
+    ]
+  },
+  "Paris": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "Nice": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "Lyon": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "London": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Black Cab", "link": "#"}
+    ]
+  },
+  "Manchester": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "Birmingham": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "Tokyo": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "JapanTaxi", "link": "#"}
+    ]
+  },
+  "Osaka": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "JapanTaxi", "link": "#"}
+    ]
+  },
+  "Kyoto": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  },
+  "New York": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Lyft", "link": "https://www.lyft.com"}
+    ]
+  },
+  "Los Angeles": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Lyft", "link": "https://www.lyft.com"}
+    ]
+  },
+  "San Francisco": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Lyft", "link": "https://www.lyft.com"}
+    ]
+  },
+  "Chicago": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Lyft", "link": "https://www.lyft.com"}
+    ]
+  },
+  "Toronto": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Lyft", "link": "https://www.lyft.com"}
+    ]
+  },
+  "Vancouver": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Lyft", "link": "https://www.lyft.com"}
+    ]
+  },
+  "Sydney": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Melbourne": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Brisbane": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Ola", "link": "https://www.olacabs.com"}
+    ]
+  },
+  "Singapore": {
+    "cabs": [
+      {"name": "Grab", "link": "https://www.grab.com"},
+      {"name": "Gojek", "link": "https://www.gojek.com"}
+    ]
+  },
+  "Bangkok": {
+    "cabs": [
+      {"name": "Grab", "link": "https://www.grab.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "Phuket": {
+    "cabs": [
+      {"name": "Grab", "link": "https://www.grab.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  },
+  "Kuala Lumpur": {
+    "cabs": [
+      {"name": "Grab", "link": "https://www.grab.com"},
+      {"name": "AirAsia Ride", "link": "#"}
+    ]
+  },
+  "Bali": {
+    "cabs": [
+      {"name": "Grab", "link": "https://www.grab.com"},
+      {"name": "Gojek", "link": "https://www.gojek.com"}
+    ]
+  },
+  "Jakarta": {
+    "cabs": [
+      {"name": "Grab", "link": "https://www.grab.com"},
+      {"name": "Gojek", "link": "https://www.gojek.com"}
+    ]
+  },
+  "Rome": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Free Now", "link": "#"}
+    ]
+  },
+  "Venice": {
+    "cabs": [
+      {"name": "Water Taxi", "link": "#"},
+      {"name": "Vaporetto", "link": "#"}
+    ]
+  },
+  "Milan": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Free Now", "link": "#"}
+    ]
+  },
+  "Barcelona": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Cabify", "link": "#"}
+    ]
+  },
+  "Madrid": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Cabify", "link": "#"}
+    ]
+  },
+  "Berlin": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Free Now", "link": "#"}
+    ]
+  },
+  "Munich": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Free Now", "link": "#"}
+    ]
+  },
+  "Amsterdam": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Bolt", "link": "https://bolt.eu"}
+    ]
+  },
+  "Zurich": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  },
+  "Geneva": {
+    "cabs": [
+      {"name": "Uber", "link": "https://m.uber.com"},
+      {"name": "Local Taxi", "link": "#"}
+    ]
+  }
+}

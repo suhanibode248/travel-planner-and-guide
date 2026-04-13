@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AI Travel Planner</title>
+  <link rel="stylesheet" href="/static/style.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      transition: 0.3s;
+      background: #f4f6f9;
+      color: #000;
+    }
+
+    body.dark {
+      background: #121212;
+      color: #fff;
+    }
+
+    .title {
+      text-align: center;
+      padding: 15px;
+    }
+
+    .slide {
+      display: none;
+      padding: 20px;
+      animation: fadeIn 0.5s ease;
+    }
+
+    .active {
+      display: block;
+    }
+
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 15px auto;
+      border-radius: 10px;
+      max-width: 900px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    body.dark .card {
+      background: #1e1e1e;
+    }
+
+    input, select {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+    }
+
+    button {
+      padding: 10px 15px;
+      border: none;
+      cursor: pointer;
+      border-radius: 5px;
+      background: #007bff;
+      color: white;
+      margin: 5px;
+    }
+
+    .back-btn {
+      background: gray;
+    }
+
+    .tabs {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+
+    .tab-btn {
+      background: #ccc;
+      color: #000;
+    }
+
+    .tab-btn.active {
+      background: #007bff;
+      color: white;
+    }
+
+    .city-section {
+      display: none;
+    }
+
+    .city-section.active {
+      display: block;
+    }
+
+    .day-block {
+      background: #f1f1f1;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+    }
+
+    body.dark .day-block {
+      background: #2a2a2a;
+    }
+
+    .item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin: 5px 0;
+    }
+
+    .top-bar {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1 class="title">🌍 AI Travel Planner</h1>
+
+<div class="top-bar">
+  <button onclick="toggleDarkMode()">🌙 Toggle Dark Mode</button>
+</div>
+
+<div id="inputSlide" class="slide active">
+  <div class="card">
+    <input id="destination" placeholder="📍 Mumbai, Goa">
+    <input id="days" placeholder="📅 Days">
+    <input id="budget" placeholder="💰 Budget">
+
+    <select id="trip_type">
+      <option>👤 Solo</option>
+      <option>👨‍👩‍👧 Family</option>
+      <option>👫 Friends</option>
+      <option>❤️ Honeymoon</option>
+    </select>
+
+    <button onclick="generatePlan()">🚀 Generate Plan</button>
+  </div>
+</div>
+
+<div id="outputSlide" class="slide">
+  <button class="back-btn" onclick="goBack()">⬅ Back</button>
+  <div class="tabs" id="tabs"></div>
+  <div id="result"></div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

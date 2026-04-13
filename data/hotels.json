@@ -1,0 +1,267 @@
+{
+  "Mumbai": [
+    {"name": "Taj Mahal Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Suba Palace", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Pune": [
+    {"name": "JW Marriott Pune", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Parc Estique", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Nashik": [
+    {"name": "Gateway Nashik", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Rama Heritage", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Nagpur": [
+    {"name": "Radisson Blu Nagpur", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Orange City", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Aurangabad": [
+    {"name": "Vivanta Aurangabad", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Green Olive", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Delhi": [
+    {"name": "The Leela Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Delhi", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Bangalore": [
+    {"name": "ITC Gardenia", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Bangalore", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Hyderabad": [
+    {"name": "Taj Falaknuma Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Central Park", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Chennai": [
+    {"name": "ITC Grand Chola", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Pandian", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Kolkata": [
+    {"name": "The Oberoi Grand", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Cecil", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Jaipur": [
+    {"name": "Rambagh Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Jaipur", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Udaipur": [
+    {"name": "Taj Lake Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Moustache Udaipur", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Jodhpur": [
+    {"name": "Umaid Bhawan Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Jodhpur", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Jaisalmer": [
+    {"name": "Suryagarh Jaisalmer", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Jaisalmer", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Goa": [
+    {"name": "Taj Exotica Resort", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Pappi Chulo Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Panaji": [
+    {"name": "Vivanta Goa Panaji", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Palacio De Goa", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Manali": [
+    {"name": "The Himalayan", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Manali", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Shimla": [
+    {"name": "Wildflower Hall", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Combermere", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Dharamshala": [
+    {"name": "Hyatt Regency Dharamshala", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Dharamshala", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Amritsar": [
+    {"name": "Taj Swarna", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel City Park", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Varanasi": [
+    {"name": "Brijrama Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Varanasi", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Agra": [
+    {"name": "Oberoi Amarvilas", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Saniya Palace", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Lucknow": [
+    {"name": "Taj Mahal Lucknow", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Levana", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Bhopal": [
+    {"name": "Jehan Numa Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Shagun", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Indore": [
+    {"name": "Radisson Blu Indore", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Apna Avenue", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Ahmedabad": [
+    {"name": "ITC Narmada", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Accolade", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Surat": [
+    {"name": "Surat Marriott Hotel", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Central Excellency", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Chandigarh": [
+    {"name": "JW Marriott Chandigarh", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel City Plaza", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Dehradun": [
+    {"name": "Hyatt Regency Dehradun", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hotel Doon Castle", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Rishikesh": [
+    {"name": "Aloha on the Ganges", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Zostel Rishikesh", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+
+  "Dubai": [
+    {"name": "Burj Al Arab", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Rove Downtown", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Abu Dhabi": [
+    {"name": "Emirates Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Centro Yas Island", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "Paris": [
+    {"name": "Ritz Paris", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Generator Paris", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Nice": [
+    {"name": "Hotel Negresco", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Villa Saint Exupery", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Lyon": [
+    {"name": "Villa Florentine", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Away Hostel Lyon", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "London": [
+    {"name": "The Savoy", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "YHA London", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Manchester": [
+    {"name": "The Edwardian Manchester", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Hatters Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Birmingham": [
+    {"name": "Hyatt Regency Birmingham", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Selina Birmingham", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Tokyo": [
+    {"name": "Park Hyatt Tokyo", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Khaosan Tokyo Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Osaka": [
+    {"name": "The St. Regis Osaka", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "J-Hoppers Osaka", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Kyoto": [
+    {"name": "The Ritz-Carlton Kyoto", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Piece Hostel Kyoto", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "New York": [
+    {"name": "The Plaza Hotel", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "HI NYC Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Los Angeles": [
+    {"name": "The Beverly Hills Hotel", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Freehand LA", "type": "budget", "link": "https://www.booking.com"}
+  ],
+  "San Francisco": [
+    {"name": "Fairmont San Francisco", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "HI San Francisco Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Chicago": [
+    {"name": "The Langham Chicago", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "HI Chicago Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Toronto": [
+    {"name": "Fairmont Royal York", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "The Only Backpackers Inn", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Vancouver": [
+    {"name": "Fairmont Pacific Rim", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Samesun Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Sydney": [
+    {"name": "Shangri-La Sydney", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Wake Up Sydney", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Melbourne": [
+    {"name": "Crown Towers Melbourne", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Space Hotel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Brisbane": [
+    {"name": "W Brisbane", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Bunk Brisbane", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Singapore": [
+    {"name": "Marina Bay Sands", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Capsule Pod Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Bangkok": [
+    {"name": "Mandarin Oriental Bangkok", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Lub d Bangkok", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Phuket": [
+    {"name": "Sri Panwa Phuket", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Lub d Phuket", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Kuala Lumpur": [
+    {"name": "Mandarin Oriental KL", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "BackHome Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Bali": [
+    {"name": "AYANA Resort Bali", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "The Farm Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Jakarta": [
+    {"name": "Hotel Indonesia Kempinski", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Wonderloft Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Rome": [
+    {"name": "Hotel Eden", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "The Beehive", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Venice": [
+    {"name": "Gritti Palace", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Anda Venice Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Milan": [
+    {"name": "Armani Hotel Milan", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Ostello Bello", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Barcelona": [
+    {"name": "Hotel Arts Barcelona", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Generator Barcelona", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Madrid": [
+    {"name": "The Ritz Madrid", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "OK Hostel Madrid", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Berlin": [
+    {"name": "Hotel Adlon Kempinski", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Generator Berlin", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Munich": [
+    {"name": "Bayerischer Hof", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Wombats Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Amsterdam": [
+    {"name": "Waldorf Astoria Amsterdam", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "ClinkNOORD Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Zurich": [
+    {"name": "Baur au Lac", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "Oldtown Hostel", "type": "budget", "link": "https://www.hostelworld.com"}
+  ],
+  "Geneva": [
+    {"name": "Hotel President Wilson", "type": "luxury", "link": "https://www.booking.com"},
+    {"name": "City Hostel Geneva", "type": "budget", "link": "https://www.hostelworld.com"}
+  ]
+}
