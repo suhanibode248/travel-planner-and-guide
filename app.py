@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, redirect, url_for
 import json
 
 app = Flask(__name__)
@@ -11,11 +11,10 @@ transport = json.load(open("data/transport.json"))
 places = json.load(open("data/places.json"))
 
 
-# ✅ SMART PLAN GENERATOR (UI FRIENDLY FORMAT)
+# ✅ SMART PLAN GENERATOR
 def generate_plan(city_places, days, trip_type, city_name, start_day):
 
     lines = []
-
     total_places = len(city_places)
 
     if total_places == 0:
@@ -95,12 +94,31 @@ def filter_hotels(city, budget):
     return city_hotels
 
 
-# ✅ ROUTES
+# 🔐 LOGIN PAGE
 @app.route("/")
+def login_page():
+    return render_template("login.html")
+
+
+# 🔐 LOGIN HANDLER
+@app.route("/login", methods=["POST"])
+def handle_login():
+    username = request.form.get("username")
+    password = request.form.get("password")
+
+    if username == "admin" and password == "1234":
+        return redirect(url_for("home"))
+    else:
+        return "Invalid Credentials"
+
+
+# 🏠 MAIN APP PAGE
+@app.route("/home")
 def home():
     return render_template("index.html")
 
 
+# ✅ GENERATE PLAN API (UNCHANGED)
 @app.route("/generate", methods=["POST"])
 def generate():
     data = request.json
@@ -112,7 +130,6 @@ def generate():
 
     result = []
 
-    # ✅ SINGLE CITY
     if len(city_list) == 1:
         city = city_list[0]
         city_places = places.get(city, [])
@@ -126,7 +143,6 @@ def generate():
             "transport": transport.get(city, {})
         })
 
-    # ✅ MULTI CITY
     else:
         num_cities = len(city_list)
         days_per_city = total_days // num_cities
@@ -159,7 +175,7 @@ def generate():
     return jsonify(result)
 
 
-# ✅ ENTRY POINT
+# ✅ RUN
 if __name__ == "__main__":
     print("🚀 Flask server starting...")
     app.run(debug=True)
